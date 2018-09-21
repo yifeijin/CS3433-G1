@@ -1,0 +1,14 @@
+111111
+111111
+111111
+111111
+111111
+111111
+MODE e.g. Puzzle
+oneStar
+twoStar
+threeStar
+maxMove
+total time
+Theme
+Answers
